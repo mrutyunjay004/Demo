@@ -1,2 +1,2 @@
 # Demo
-This is  my GIT Hub Repository.
+This is  my GIT Repository.
